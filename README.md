@@ -1,7 +1,7 @@
 # uaexon
 cybersecurity services dashboard
 
-
+the main goal of this project is to provide easily deployable dashboards to provide companies with data asap from security reviews and testing. 
 
 ### services
 
@@ -13,4 +13,5 @@ cybersecurity services dashboard
   - Cloud environment (AWS, GCP, ...)
   - Onsite network
   - ICS network
+
 
